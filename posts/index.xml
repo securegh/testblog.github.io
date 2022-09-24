@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Test Blog</title>
-        <link>https://testblog.github.io/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 23 Sep 2022 22:53:05 &#43;0100</lastBuildDate>
-            <atom:link href="https://testblog.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>All Posts - Test Blog</title>
+        <link>https://testblog.github.io/posts/</link>
+        <description>All Posts | Test Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 23 Sep 2022 22:53:05 &#43;0100</lastBuildDate><atom:link href="https://testblog.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Learning_Git</title>
     <link>https://testblog.github.io/posts/learning_git/</link>
     <pubDate>Fri, 23 Sep 2022 22:53:05 &#43;0100</pubDate>
